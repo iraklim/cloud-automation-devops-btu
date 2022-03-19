@@ -5,4 +5,4 @@
 #### python ls3.py
 #### python ls3.py prod
 #### python ls3.py ^prod.*
-#### python ls3.py bucket-name-1 #### bucket-name-2 bucket-name-3
+#### python ls3.py bucket-name-1 bucket-name-2 bucket-name-3
